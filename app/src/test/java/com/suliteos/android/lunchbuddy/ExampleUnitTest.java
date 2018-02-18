@@ -1,4 +1,4 @@
-package com.example.android.lunchbuddy;
+package com.suliteos.android.lunchbuddy;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.android.lunchbuddy;
+package com.suliteos.android.lunchbuddy;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.example.android.lunchbuddy;
+package com.suliteos.android.lunchbuddy;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
